@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille 1 - Monde Numérique</title>
+
+<!-- Lien vers le fichier CSS -->
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+    <h1>Première Veille : Comprendre le Monde Numérique</h1>
+</header>
+
+<section>
+    <h2>1. Électricité</h2>
+    <p>L’électricité permet aux appareils électroniques de fonctionner. Sans elle, aucun ordinateur ne peut s’allumer.</p>
+</section>
+
+<section>
+    <h2>2. Ordinateur</h2>
+    <p>Un ordinateur est composé d’un processeur (CPU), de la RAM et d’un disque dur pour stocker les données.</p>
+</section>
+
+<section>
+    <h2>3. Logiciel</h2>
+    <p>Un logiciel est un programme informatique comme Chrome, Word ou WhatsApp.</p>
+</section>
+
+<section>
+    <h2>4. Internet</h2>
+    <p>Internet permet aux ordinateurs de communiquer entre eux grâce aux serveurs et aux adresses IP.</p>
+</section>
+
+<section>
+    <h2>5. Smartphone</h2>
+    <p>Un smartphone est un mini-ordinateur avec Android ou iOS.</p>
+</section>
+
+<section>
+    <h2>6. Intelligence Artificielle</h2>
+    <p>L’IA permet aux machines d’apprendre à partir des données pour faire des prédictions.</p>
+</section>
+
+<section>
+    <h2>7. Super Ordinateur</h2>
+    <p>Un super ordinateur est utilisé pour des calculs très complexes comme la météo ou la recherche scientifique.</p>
+</section>
+
+<section>
+    <h2>Test de compréhension</h2>
+    <button onclick="afficherMessage()">Pourquoi cette veille est importante ?</button>
+    <p id="info"></p>
+</section>
+
+<!-- Lien vers le fichier JavaScript -->
+<script src="script.js"></script>
+
+</body>
+</html>
